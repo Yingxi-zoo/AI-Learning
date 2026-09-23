@@ -951,7 +951,7 @@ MCP、Subagent 和 A2A 并不是相互排斥的技术。用一句话总结：
 > **Subagent 负责内部协作，MCP 负责工具连接，A2A 负责 Agent 间协作。**
 
 三者可以共同构成一个更加完整的 Agent 系统。
-![](../images/pasted-20260922.png)
+![](../images/mcp-a2a-subagent-对比.png)
 
 ---
 
